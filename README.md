@@ -1,6 +1,6 @@
 ### Hi there 
 
-### Hi there 👋 I'm Ibe Andyson Andrew welcome to my Github. 🌱 👯
+### Hi there 👋 I'm Ibe Andyson Andrew welcome to my Github. 🌱🌱🌱
 
 
 # About Me 🚀
