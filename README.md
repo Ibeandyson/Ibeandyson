@@ -5,10 +5,13 @@
 
 # About Me 🚀
 💻 I’m a Software Engineer who loves solving problems.
+### Connect with me:
+
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ibe-andyson-b290ba176/) [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/iaaTechworm?t=BIYjhXWS985oHBk2jXGTrg&s=09) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:ibeandyson123@gmail.com)
 
   Experienced Frontend software Engineer with a demonstrated history of works . with  Strong Client communication relationship. professional with a National Diploma focused in Computer Science from Federal polytechnic Nekede Owerri. 
 
-Other than calling me a Frontend engineer, you can as well call me a full-stack engineer. I write Backend, creating APIs using express and nextjs api request , I am a full-time problem solver.... and I  love impacting knowledge. I have developed the passion  of moving deep into the Blockchain world . I  am currently learning solidity programing Language for writing smart contract on the Ethereum blockchain network. I am open for building the next business idea that will make a difference DM for that if you got one .🚀
+Other than calling me a Frontend engineer, you can as well call me a full-stack engineer. I write Backend, creating APIs using express and nextjs api request , I am a full-time problem solver.... and I  love impacting knowledge. I have developed the passion  of moving deep into the Blockchain world . I  am currently learning solidity programing Language for writing smart contract on the Ethereum blockchain network. I am open for building the next business idea that will make a difference.🚀
   
 * ⚡ Techology Inspires and Drives me and I strongly believe that with Technology and Software, we can build and Shipped Solutions and create Shared Economy for all 
 
