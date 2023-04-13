@@ -6,7 +6,7 @@
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ibe-andyson-b290ba176/) [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/iaaTechworm?t=BIYjhXWS985oHBk2jXGTrg&s=09) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:ibeandyson123@gmail.com)
 
-  Experienced `Software Engineer` with a demonstrated history of works, who has built highly performance `mobile(IOS & Android)` and `Web` base applications. with  Strong Client communication relationship. professional with a `Diploma` focused in Computer Science from 
+  Experienced `Software Engineer` with a demonstrated history of works, who has built highly performance `mobile(IOS & Android)` and `Web` base applications. with  Strong Client communication relationship. professional with a `Diploma` focused in Computer Science.
   
 Other than calling me a `Frontend Engineer`, you can as well call me a `Full-stack Engineer`. I write `Backend Applications` too, `creating APIs`. I am a full-time problem solver...., I love impacting knowledge and I am buding my career around `Product Engineering`. I have skills focusing on `Project Mangement` and `Product Mangement`, so speaking, I can lead and manage a team on any project.
   
