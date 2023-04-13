@@ -8,9 +8,9 @@
 
   Experienced `Software Engineer` with a demonstrated history of works, who has built highly performance `mobile(IOS & Android)` and `Web` base applications. with  Strong Client communication relationship. professional with a `Diploma` focused in Computer Science from 
   
-Other than calling me a `Frontend Engineer`, you can as well call me a `Full-stack Engineer`. I write `Backend Applications` too, `creating APIs` , I am a full-time problem solver.... and I love impacting knowledge. I am buding my career around `Product Engineering`, I have skills focusing on `Project Mangement` and `Product Mangement`, so speaking I can lead and manage a team on any project.
+Other than calling me a `Frontend Engineer`, you can as well call me a `Full-stack Engineer`. I write `Backend Applications` too, `creating APIs`. I am a full-time problem solver...., I love impacting knowledge and I am buding my career around `Product Engineering`. I have skills focusing on `Project Mangement` and `Product Mangement`, so speaking, I can lead and manage a team on any project.
   
-* ⚡ Techology Inspires and Drives me and I strongly believe that with Technology and Software, we can build and Shipped Solutions and create Shared Economy for all 
+* ⚡ Techology Inspires and Drives me and I strongly believe that with Technology and Software, we can build, Ship Solutions and create Shared Economy for all. 
 
 
 ## ⚡ Technologies  I love using
