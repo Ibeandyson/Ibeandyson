@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Ibe Andyson Andrew**
 
 Welcome to my GitHub!  
-I’m a passionate **Software Engineer** who loves solving real-world problems and building high-performance applications across mobile (iOS & Android) and the web.
+I’m a passionate **Software Engineer / Product Engineer** who loves solving real-world problems and building high-performance applications across mobile (iOS & Android) and the web.
 
 ---
 
@@ -12,7 +12,8 @@ I’m a passionate **Software Engineer** who loves solving real-world problems a
 - 🎓 Diploma in Computer Science  
 - 🌱 Currently growing my expertise in **Product Engineering**  
 - 👥 Experienced in leading teams, project management & product execution  
-- 📚 I enjoy mentoring and sharing knowledge with the tech community  
+- 📚 I enjoy mentoring and sharing knowledge with the tech community
+- 🥷 Currently Building Startups
 
 ---
 
@@ -20,27 +21,31 @@ I’m a passionate **Software Engineer** who loves solving real-world problems a
 
 ### **Frontend**
 - React  
-- React Native  
+- React Native
+- Expo
 - Next.js  
 - Redux  
 - HTML  
 - CSS  
-- Styled Components  
+- Styled Components
+    
 
 ### **Backend**
 - Node.js  
 - Express  
 - Firebase  
-- MongoDB  
+- MongoDB
+- SQL
 
 ### **Languages**
 - JavaScript  
-- TypeScript  
+- TypeScript
+- Python
 
 ---
 
 ## 🌍 Connect With Me  
-- [LinkedIn](#)  
+- [LinkedIn](https://www.linkedin.com/in/andyson-ibe-b290ba176/)  
 - [Email](mailto:ibeandyson123@gmail.com)
 
 ---
