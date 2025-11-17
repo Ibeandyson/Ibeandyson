@@ -1,29 +1,52 @@
-### Hi there 👋 I'm Ibe Andyson Andrew welcome to my Github. 🌱🌱🌱
+# 👋 Hi, I'm **Ibe Andyson Andrew**
 
-# About Me 🚀
-💻 I’m a Software Engineer who loves solving problems.
-### Connect with me:
+Welcome to my GitHub!  
+I’m a passionate **Software Engineer** who loves solving real-world problems and building high-performance applications across mobile (iOS & Android) and the web.
 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ibe-andyson-b290ba176/) [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/iaaTechworm?t=BIYjhXWS985oHBk2jXGTrg&s=09) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:ibeandyson123@gmail.com)
+---
 
-  Experienced `Software Engineer` with a demonstrated history of works, who has built highly performance `mobile(IOS & Android)` and `Web` base applications. with  Strong Client communication relationship. professional with a `Diploma` focused in Computer Science.
-  
-Other than calling me a `Frontend Engineer`, you can as well call me a `Full-stack Engineer`. I write `Backend Applications` too, `creating APIs`. I am a full-time problem solver...., I love impacting knowledge and I am buding my career around `Product Engineering`. I have skills focusing on `Project Mangement` and `Product Mangement`, so speaking, I can lead and manage a team on any project.
-  
-* ⚡ Techology Inspires and Drives me and I strongly believe that with Technology and Software, we can build, Ship Solutions and create Shared Economy for all. 
+## 🚀 About Me  
+- 💻 Experienced in building scalable, user-focused software products  
+- 🔧 Skilled in both **Frontend** and **Backend** development  
+- 🧩 Strong communicator with proven client-facing experience  
+- 🎓 Diploma in Computer Science  
+- 🌱 Currently growing my expertise in **Product Engineering**  
+- 👥 Experienced in leading teams, project management & product execution  
+- 📚 I enjoy mentoring and sharing knowledge with the tech community  
 
+---
 
-## ⚡ Technologies  I love using
+## ⚡ Technologies I Work With
 
-- ⚡  React ...
-- ⚡  React Native ...
-- ⚡  Nextjs ...
-- ⚡  Redux ...
-- ⚡  Node...
-- ⚡  JavaScript ...
-- ⚡  Typescript: ...
-- ⚡  MongoDb ...
-- ⚡  FireBase ... 
-- ⚡  Html ...
-- ⚡  Css ...
-- ⚡  Styled Component ...
+### **Frontend**
+- React  
+- React Native  
+- Next.js  
+- Redux  
+- HTML  
+- CSS  
+- Styled Components  
+
+### **Backend**
+- Node.js  
+- Express  
+- Firebase  
+- MongoDB  
+
+### **Languages**
+- JavaScript  
+- TypeScript  
+
+---
+
+## 🌍 Connect With Me  
+- [LinkedIn](#)  
+- [Email](mailto:ibeandyson123@gmail.com)
+
+---
+
+## 💡 What Drives Me  
+Technology inspires me. I strongly believe we can use software to **build, ship meaningful solutions, and create shared economic value** for people everywhere.
+
+Thanks for stopping by! 🚀  
+Feel free to explore my repositories and connect with me anytime.
