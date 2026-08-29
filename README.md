@@ -15,34 +15,7 @@ I’m a passionate **Software Engineer / Product Engineer** who loves solving re
 - 📚 I enjoy mentoring and sharing knowledge with the tech community
 - 🥷 Currently Building Startups
 
----
 
-## ⚡ Technologies I Work With
-
-### **Frontend**
-- React  
-- React Native
-- Expo
-- Next.js  
-- Redux  
-- HTML  
-- CSS  
-- Styled Components
-    
-
-### **Backend**
-- Node.js  
-- Express  
-- Firebase  
-- MongoDB
-- SQL
-
-### **Languages**
-- JavaScript  
-- TypeScript
-- Python
-
----
 
 ## 🌍 Connect With Me  
 - [LinkedIn](https://www.linkedin.com/in/andyson-ibe-b290ba176/)  
