@@ -9,8 +9,8 @@ I’m a passionate **Software Engineer / Product Engineer** who loves solving re
 - 💻 Experienced in building scalable, user-focused software products  
 - 🔧 Skilled in both **Frontend** and **Backend** development  
 - 🧩 Strong communicator with proven client-facing experience  
-- 🎓 Diploma in Computer Science  
-- 🌱 Currently growing my expertise in **Product Engineering**  
+- 🎓 Diploma in Computer Science and Information Technology
+- 🌱 Currently growing my expertise in **Product Engineering** **Azure Cloud** **DevOps** 
 - 👥 Experienced in leading teams, project management & product execution  
 - 📚 I enjoy mentoring and sharing knowledge with the tech community
 - 🥷 Currently Building Startups
